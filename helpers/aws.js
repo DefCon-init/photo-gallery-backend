@@ -1,7 +1,7 @@
 const aws = require("aws-sdk");
 const s3bucket = new aws.S3({
-  accessKeyId: "AKIAITKEDQQYFINEZ75Q",
-  secretAccessKey: "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"
+  accessKeyId: process.env.AWS_ACCESSKEYID,
+  secretAccessKey: process.env.AWS_SECRETACCESSKEY
 });
 
 const isImage = (file, mime) => {

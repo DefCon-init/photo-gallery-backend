@@ -2,6 +2,8 @@
     "env": {
         "MONGO_USER": "gallery",
         "MONGO_PASSWORD": "2vxJMtu7y2U8kd3J",
-        "MONGO_DB": "gallery"
+        "MONGO_DB": "gallery",
+        "AWS_SECRETACCESSKEY": "MoHhi7Z7VCOmBDy4t1Hp74bWDDAT/em51P188/fa",
+        "AWS_ACCESSKEYID": "AKIAITKEDQQYFINEZ75Q"
     }
 }
