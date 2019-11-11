@@ -1,0 +1,7 @@
+{
+    "env": {
+        "MONGO_USER": "gallery",
+        "MONGO_PASSWORD": "2vxJMtu7y2U8kd3J",
+        "MONGO_DB": "gallery"
+    }
+}
